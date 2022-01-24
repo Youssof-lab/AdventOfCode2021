@@ -8,7 +8,7 @@ This repository contains my solutions for the [Advent Of Code 2021](https://adve
 |---------------------------------------------------------------------------|:------:|:------:|:------:|
 | [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1)                 |   ⭐  |   ⭐  |  [🔎](/Days/Day01/)  |
 | [Day 2: Dive!](https://adventofcode.com/2021/day/2)                       |   ⭐  |   ⭐  |  [🔎](/Days/Day02/)  |
-| [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3)           |   -  |   -  |  -  |
+| [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3)           |   ⭐  |   ⭐  |  [🔎](/Days/Day03/)  |
 | [Day 4: Giant Squid](https://adventofcode.com/2021/day/4)                 |   -  |   -  |  -  |
 | [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5)        |   -  |   -  |  -  |
 | [Day 6: Lanternfish](https://adventofcode.com/2021/day/6)                 |   -  |   -  |  -  |
